@@ -34,7 +34,7 @@ import java.util.Calendar;
 
 public class FileLogger implements GnssListener {
 
-    //ホンダ
+    //ホンダああ
     private static final String TAG = "FileLogger";
     private static final String ERROR_WRITING_FILE = "Problem writing to file.";
     private static final String COMMENT_START = "# ";
